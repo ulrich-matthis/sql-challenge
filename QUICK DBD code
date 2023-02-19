@@ -1,6 +1,6 @@
 Employees
 -
-emp_no INT
+emp_no PK INT
 emp_title VARCHAR
 birth_date DATE
 first_name VARCHAR
@@ -10,7 +10,7 @@ hire_date DATE
 
 departments
 -
-dept_no VARCHAR
+dept_no PK VARCHAR
 dept_name VARCHAR
 
 dept_emp
