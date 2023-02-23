@@ -5,4 +5,4 @@ For this project, you’ll design the tables to hold the data from the CSV files
 Using provided csv files, they were imported into created tables using PostgreSQL and PGAdmin4 and then queried to the specific question,
 which are included as comments within the SQL queries file.
 
-title_id changed to emp_title in titles csv for simplification of data in this SQL analysis
+All CSV files used for this assingment are available witin the Data folder.
